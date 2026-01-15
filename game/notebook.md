@@ -1,7 +1,15 @@
+##Detective Notebook
 
--[x] The Gardener
--[x] The Banker
--[x] The tailor
--[x] The innkeeper
--[x] Brass Candlestick
+##Suspects
+- [x] The banker
+- [ ] The doctor
+- [ ] The florist
+
+##Weapons
+- [ ] Paint Brush
+- [ ] Bronze Trophy
+- [ ] Kitchen Knife
+
+##Notes
+Residential Area fully checked!
 
