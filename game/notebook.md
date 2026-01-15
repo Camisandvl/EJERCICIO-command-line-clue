@@ -12,4 +12,8 @@
 
 ##Notes
 Residential Area fully checked!
-
+Park fully checked!
+School fully checked!
+Shops fully checked!
+Town hall fully checked... The crime was commited in the Archives room!
+From my findings the Florist did it, the murder weapon was the Bronze Trophy...
