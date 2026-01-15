@@ -2,7 +2,7 @@
 
 ##Suspects
 - [x] The banker
-- [ ] The doctor
+- [x] The doctor
 - [ ] The florist
 
 ##Weapons
