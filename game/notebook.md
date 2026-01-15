@@ -8,7 +8,7 @@
 ##Weapons
 - [ ] Paint Brush
 - [ ] Bronze Trophy
-- [ ] Kitchen Knife
+- [x] Kitchen Knife
 
 ##Notes
 Residential Area fully checked!
