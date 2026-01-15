@@ -1,4 +1,5 @@
 
+-[x] The Gardener
 -[x] The Banker
 -[x] The tailor
 -[x] The innkeeper
