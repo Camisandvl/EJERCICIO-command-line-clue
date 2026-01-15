@@ -1,11 +1,11 @@
 ##Detective Notebook
 
 ##Suspects
-- [x] The banker
-- [x] The doctor
-- [ ] The florist
+
+- [x] The Doctor
+- [ ] The Florist
 - [x] The Banker
-- [x] The tailor
+- [x] The Tailor
 - [x] The Gardener
 - [x] The Carpenter
 - [x] The Postman
@@ -18,7 +18,7 @@
 - [x] Paint Brush
 - [ ] Bronze Trophy
 - [x] Kitchen Knife
-- [x] Garden Sheers
+- [x] Garden Shears
 - [x] Iron Poker
 - [x] Wooden Box
 - [x] Walking Stick
