@@ -6,7 +6,7 @@
 - [ ] The florist
 
 ##Weapons
-- [ ] Paint Brush
+- [x] Paint Brush
 - [ ] Bronze Trophy
 - [x] Kitchen Knife
 
